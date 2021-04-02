@@ -1,4 +1,8 @@
+.App {
 
+max-width: 960px;
+margin: 0 auto;
+}
 .App-logo {
 max-width: 50px;
 display: block;

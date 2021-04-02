@@ -1,0 +1,19 @@
+.Photos img {
+border-radius: 10px;
+margin-bottom:8px;
+
+}
+
+.Photos {
+margin-left:25px;
+border: 0.1px solid rgba(105, 105, 105, 0.146);
+border-radius:25px;
+padding-top:8px;
+padding-left:20px; 
+box-shadow: 5px 0px #888888 ;
+background-color: white;
+margin-bottom:8px;
+padding:25px;
+
+
+}
