@@ -10,10 +10,14 @@ export default function App() {
           <img src={logo} className="img-fluid App-logo" alt="logo"/>
         </header>
         <main>
-        <SearchEngine/>
+        <SearchEngine defaultKeyword="hello"/>
         </main>
-      <footer className="App-footer text-center">Open sourced by <a href="https://www.linkedin.com/in/robertafrancesconi/">Roberta Francesconi</a> on <a href="https://github.com/RobertaRocks/weather-app-react">GitHub</a></footer>
+      <footer className="App-footer text-center"> <br/> <br/>Open sourced by <a href="https://www.linkedin.com/in/robertafrancesconi/" target="_blank" rel="noreferrer">Roberta Francesconi</a> on <a href="https://github.com/RobertaRocks/dictionary-react-app" target="_blank" rel="noreferrer">GitHub</a></footer>
+      <div className="sidetext-left">
+	        ROBERTA'S WORDS
       </div>
+           
+</div>
     </div>
   );
 }

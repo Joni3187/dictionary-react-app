@@ -6,13 +6,13 @@ margin: 0 auto;
 }
 
 .App-header {
-margin-top: 30px;
+padding-top: 30px;
 }
 
 .App-footer {
 text-align: center;
 font-family: monospace;
-margin: 55px 0px;
+padding: 55px 0px;
 }
 
 a {
@@ -26,3 +26,23 @@ color: #d9adad;
 text-decoration: none;
 cursor: pointer;
 }
+
+
+.sidetext-left{
+
+    position: fixed;
+    left: 0;
+    bottom: 50%;
+    color: #ad9d9d;
+    height: 1.5em;
+    margin: -25px;
+    transform: rotate(
+-90deg
+);
+    font-family: monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 2.3px !important;
+
+}
+              

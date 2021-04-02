@@ -41,46 +41,6 @@ form {
 padding-left: 20px;
 padding-right:20px;}
 
-.weather-icon{
-max-width: 170px;
-margin-left: 20px;
-}
-
-.degree {
-font-family: monospace;
-font-size: 60px;
-text-align: left;
-}
-
-.celsius-far-far, .celsius-far-cel, .small {
-font-size: 15px;
-top: -25px;
-position: relative;
-}
-.small {
-margin-left: -5px;}
-
-.celsius-far-far {
-margin-left:3px;
-cursor: pointer;
-
-}
-
-.far {
-margin-left:3px;
-}
-
-
-.celsius-far-cel{
-margin-left:-25px;
-cursor: pointer;
-margin-left:-35px;
-}
-
-.celsius-far-cel, .celsius-far-far {
-color: dimgray;
-}
-
 .link {
   color: #d9adad;
   cursor: pointer;
